@@ -1,0 +1,13 @@
+{
+  "name": "pack-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "dist/images/*"
+  ],
+  "dependencies": {
+    "tar-stream": "^1.5.2",
+    "zlib": "^1.0.5"
+  }
+}
